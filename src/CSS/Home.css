@@ -1,0 +1,9 @@
+.main {
+   margin: 35px 0px 0px 0px;
+   height: 99vh;
+   display: block;
+   border: 1px solid black;
+   font-family: Sans-Serif;
+   padding: 10px;
+   box-sizing: border-box;
+}

@@ -1,0 +1,7 @@
+body {
+   background-image: linear-gradient(50deg,#acb8fc,#9967f7);
+   background-repeat: no-repeat;
+   height: 100vh;
+   overflow: hidden;
+   overflow-y: scroll;
+}
